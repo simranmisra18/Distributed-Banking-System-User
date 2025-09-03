@@ -1,1 +1,3 @@
 # Distributed-Banking-System-User
+
+This is the user application of the-bank, simple but resilient implementation of a banking system, infinitely scalable on the frontend.
